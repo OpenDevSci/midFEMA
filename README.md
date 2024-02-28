@@ -40,7 +40,6 @@ tags: `Longitudinal` `fMRI` `DBD` `FEMA` `MID`
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -54,12 +53,9 @@ This is the repository for the midFEMA research project.
 
 The **midFEMA** research project is aimed at identifying and analyzing neurodevelopmental biomarkers for severe behavioral and emotional problems in youth. By leveraging Fast and Efficient Mixed‐Effects Analysis (FEMA) in conjunction with voxelwise task-based reward activation measurements, we aim to uncover insights into brain development and functioning across a large, prospectively followed sample of approximately 9,000 youth aged 9–16 years from the Adolescent Brain and Cognitive Development (ABCD) study.
 
-
 https://github.com/openresearchcollabs/midFEMA
 
 https://github.com/openresearchcollabs/midFEMA/issues
-
-
 
 ## Features
 
@@ -69,39 +65,19 @@ https://github.com/openresearchcollabs/midFEMA/issues
 - **Comprehensive Documentation**: Facilitating easy access to guides, tutorials, and project documentation.
 
 ## Getting Started
-
-### Prerequisites
-
-Before setting up **midFEMA**, ensure you have the following installed:
-- Git
-- Docker (for development containers)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Installation
-
-Clone the repo and set up the development environment:
-
-```bash
-git clone https://github.com/openresearchcollabs/midFEMA.git
-cd midFEMA
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-# Instructions to set up the dev environment
-
-## Usage
-Provide examples of how your project can be used, with code snippets and screenshots as necessary. For more examples, please refer to the Documentation.
+xxxxxxxxxx
 
 ## Discussion & Issues
 See the [open issues](https://github.com/github_username/repo_name/issues) and the [discussion board](https://github.com/github_username/repo_name/discussion) for a full list of proposed features (and known issues).
 
 ## Contributing
-We welcome contributions from the community! For more information on how to get involved, please read our Contribution Guide.
+We welcome contributions from the community! For more information on how to get involved, please read our [Contribution Guide](/docs/Contributing.md).
+
+## Codespace
+xxxxxxx [midFEMA Codespace](/docs/Codespaces-Setup.md). 
 
 ## License
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License. See [LICENSE](/docs/LICENSE) for more information.
 
 ## Contact
 Join our Slack channel for discussions: Join Slack
