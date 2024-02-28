@@ -50,7 +50,16 @@ tags: `Longitudinal` `fMRI` `DBD` `FEMA` `MID`
 
 ## About the Project
 
+This is the repository for the midFEMA research project. 
+
 The **midFEMA** research project is aimed at identifying and analyzing neurodevelopmental biomarkers for severe behavioral and emotional problems in youth. By leveraging Fast and Efficient Mixed‐Effects Analysis (FEMA) in conjunction with voxelwise task-based reward activation measurements, we aim to uncover insights into brain development and functioning across a large, prospectively followed sample of approximately 9,000 youth aged 9–16 years from the Adolescent Brain and Cognitive Development (ABCD) study.
+
+
+https://github.com/openresearchcollabs/midFEMA
+
+https://github.com/openresearchcollabs/midFEMA/issues
+
+
 
 ## Features
 
