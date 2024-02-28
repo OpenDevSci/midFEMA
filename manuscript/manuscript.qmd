@@ -57,7 +57,7 @@ bibliography: references.bib
 
 ## Introduction
 
-Introduce the research topic, state the research problem, and outline the study's objectives. Provide background information to set the context.
+Introduce the research topic, state the research problem, and outline the study's objectives. Provide background information to set the context. This is an exmaple in-text citation @netwok2020
 
 ### Background
 
@@ -118,10 +118,6 @@ Summarize the main findings and their implications. Conclude with a statement th
 ## Acknowledgments
 
 _Acknowledge anyone who contributed to the research but does not meet authorship criteria, along with any funding sources._
-
-## References
-
-_List all sources cited in your manuscript, formatted according to your discipline's preferred citation style._
 
 ## Appendices
 
