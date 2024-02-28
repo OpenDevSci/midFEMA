@@ -1,0 +1,131 @@
+---
+title: "midFEMA Manuscript"
+authors:
+  - name: Samuel W. Hawes
+    email: "shawes@fiu.edu"
+    affiliations:
+      - name: Florida International University
+        department: Psychology
+        city: Miami
+        state: Florida
+        country: United States
+  - name: Mohammadreza Bayat
+    email: "mbayat@fiu.edu"
+    affiliations:
+      - name: Florida International University
+        department: Psychology
+        city: Miami
+        state: Florida
+        country: United States
+  - name: Anthony Dick
+    email: "adick@fiu.edu"
+    affiliations:
+      - name: Florida International University
+        department: Psychology
+        city: Miami
+        state: Florida
+        country: United States
+  - name: Raul Gonzalez
+    email: "gonzara@fiu.edu"
+    affiliations:
+      - name: Florida International University
+        department: Psychology
+        city: Miami
+        state: Florida
+        country: United States
+  - name: Additional Co-authors
+    email: "tbd@fiu.edu"
+    affiliations:
+      - name: Florida International University
+        department: Psychology
+        city: Miami
+        state: Florida
+        country: United States
+
+abstract: |
+  The midFEMA research project is aimed at identifying and analyzing neurodevelopmental biomarkers for severe behavioral and emotional problems in youth. By leveraging Fast and Efficient Mixed‐Effects Analysis (FEMA) in conjunction with voxelwise task-based reward activation measurements, we aim to uncover insights into brain development and functioning across a large, prospectively followed sample of approximately 9,000 youth aged 9–16 years from the Adolescent Brain and Cognitive Development (ABCD) study.
+index-terms: 
+  - Longitudinal
+  - fMRI
+  - DBD
+  - FEMA
+  - MID
+format:
+  ieee-typst: default
+bibliography: references.bib
+---
+
+## Introduction
+
+Introduce the research topic, state the research problem, and outline the study's objectives. Provide background information to set the context.
+
+### Background
+
+_Provide a brief review of the pertinent literature, highlighting the gaps your study aims to fill._
+
+### Objectives
+
+_State the specific research questions or hypotheses your study addresses._
+
+## Methods
+
+Describe the methodological approach, detailing how the study was conducted, how data was collected, and how analyses were performed.
+
+### Participants
+
+_Describe the demographic characteristics of the study participants, including how they were selected, recruited, and any inclusion or exclusion criteria._
+
+### Measures
+
+_List the instruments or tools used to collect data, describing each measure's purpose and any relevant psychometric properties._
+
+### Analytic Plan
+
+_Detail the statistical tests or models employed to analyze the data, including any software used._
+
+## Results
+
+Present the findings of the study, supported by statistical analysis, tables, and figures as necessary.
+
+### [Subsection Title]
+
+_Present specific findings related to a particular aspect of the study, supported by data._
+
+### [Subsection Title]
+
+_Discuss another set of findings, providing details on the analysis and interpretation._
+
+## Discussion
+
+Interpret the results, discussing their implications in the context of existing literature. Address the study's limitations and suggest directions for future research.
+
+### Interpretation of Findings
+
+_Discuss how your findings contribute to the existing body of knowledge and their practical implications._
+
+### Limitations
+
+_Acknowledge any limitations of your study and their potential impact on the findings._
+
+### Future Directions
+
+_Suggest areas for future research that could build on your findings or address limitations._
+
+## Conclusion
+
+Summarize the main findings and their implications. Conclude with a statement that reflects the significance of the study and its contributions to the field.
+
+## Acknowledgments
+
+_Acknowledge anyone who contributed to the research but does not meet authorship criteria, along with any funding sources._
+
+## References
+
+_List all sources cited in your manuscript, formatted according to your discipline's preferred citation style._
+
+## Appendices
+
+_Include any additional material that is pertinent to the study but would be too distracting or bulky to include in the main body of the manuscript._
+
+
+
