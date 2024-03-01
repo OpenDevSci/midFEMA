@@ -60,6 +60,7 @@ bibliography: references.bib
 #| messages: FALSE
 #| warning: FALSE
 #| output: FALSE
+
 library(lorem)
 ```
 
@@ -73,19 +74,22 @@ str(df)
 
 
 ```{r}
-library(tidyverse)
+# Set the URL for the CSV file
+file_url <- "https://drive.google.com/uc?export=download&id=1QFdAFz09DQEeFVOj8bRWh4g6hK4b4Qj1"
 
+# Set the destination filename
+dest_file <- "df_preclean.csv"
 
-# Set the data paths
-data_path_1 <- "/Users/shawes/ABCD/data/rds/abcd_5.0_rds/demo5.0.rds"
+# Download the file
+download.file(file_url, destfile = dest_file, mode = "wb")
 
-# Read the data
-data_demographics <- readRDS(data_path_1)
+# Read the CSV file into R
+my_data <- read.csv(dest_file)
 
-str(data_demographics)
+# Display the first few rows of the data
+head(my_data)
 
 ```
-
 
 
 ## Introduction
