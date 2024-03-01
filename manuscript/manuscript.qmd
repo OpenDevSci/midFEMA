@@ -63,6 +63,31 @@ bibliography: references.bib
 library(lorem)
 ```
 
+```{r}
+library(tidyverse)
+library(ggplot2)
+
+df <- mtcars
+str(df)
+```
+
+
+```{r}
+library(tidyverse)
+
+
+# Set the data paths
+data_path_1 <- "/Users/shawes/ABCD/data/rds/abcd_5.0_rds/demo5.0.rds"
+
+# Read the data
+data_demographics <- readRDS(data_path_1)
+
+str(data_demographics)
+
+```
+
+
+
 ## Introduction
 _Introduce the research topic, state the research problem, and outline the study's objectives. Provide background information to set the context. This is an exmaple in-text citation_ @netwok2020.
 `r lorem::ipsum(paragraphs = 3)`
